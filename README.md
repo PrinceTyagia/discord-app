@@ -22,7 +22,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 Use Clerk with Next.js:
 
-- [Clerk Documentation](https://clerk.com/docss) - learn about Clerk features and Implementation.
+- [Clerk Documentation](https://clerk.com/docs) - learn about Clerk features and Implementation.
 
 
 
