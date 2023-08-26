@@ -24,5 +24,12 @@ Use Clerk with Next.js:
 
 - [Clerk Documentation](https://clerk.com/docs) - learn about Clerk features and Implementation.
 
+## Dark and Light Themes in Discord-app 
+
+Use  next-themes  with Next.js:
+
+- [Visit](https://www.npmjs.com/package/next-themes) .
+
+
 
 
